@@ -1,5 +1,6 @@
 /*
 =============================================
+*Team Project*Team of 2
 Author:Lalitha Geddapu
 Name:mt_omp_ifelse.c
 Description: Matrix Transposition in OpenMP

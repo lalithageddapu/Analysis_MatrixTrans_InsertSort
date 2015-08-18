@@ -1,5 +1,6 @@
 /*
 =============================================
+*Team Project*Team of 2
 Author:Anusha Balaji
 Name:insertion_omp.c
 Description: Insertion Sort in OpenMP
